@@ -1,8 +1,8 @@
 import React from "react";
-import Register from './RegisterTemporal';
+import Registro from './Registro';
 
 function App() {
-  return <Register />;
+  return <Registro />;
 }
 
 function CreatiXchangeLanding() {
