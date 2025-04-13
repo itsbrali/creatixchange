@@ -1,4 +1,9 @@
 import React from "react";
+import Register from './RegisterTemporal';
+
+function App() {
+  return <Register />;
+}
 
 function CreatiXchangeLanding() {
   return (
